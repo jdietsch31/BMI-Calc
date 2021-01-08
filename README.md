@@ -1,2 +1,2 @@
-A Body Mass Index Calculator
+A Body Index Mass Calculator
 Created by James Dietsch
