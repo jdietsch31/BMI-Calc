@@ -1,0 +1,13 @@
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/bin/Debug/netstandard2.0/Xam_Bim_Calculator.deps.json
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/bin/Debug/netstandard2.0/Xam_Bim_Calculator.dll
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/bin/Debug/netstandard2.0/ref/Xam_Bim_Calculator.dll
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/bin/Debug/netstandard2.0/Xam_Bim_Calculator.pdb
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/Xam_Bim_Calculator.AssemblyInfoInputs.cache
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/Xam_Bim_Calculator.AssemblyInfo.cs
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/Xam_Bim_Calculator.csproj.CoreCompileInputs.cache
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/Xam_Bim_Calculator.dll
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/ref/Xam_Bim_Calculator.dll
+/Users/jamesdietsch/Downloads/BMI_Calc/Xam_Bim_Calculator/obj/Debug/netstandard2.0/Xam_Bim_Calculator.pdb
